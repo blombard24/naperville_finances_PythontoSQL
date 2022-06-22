@@ -6,4 +6,4 @@ The Original data set can be found at city of Napervilles open data project (htt
 platform then loaded into a Panda's dataframe where some minor transformations and cleaning was done before pushing to my postgres SQL database where all subsequent 
 queries were performed
 
-the SQL repo for this data set can be found at: (https://github.com/blombard24/naperville_finances_SQL_queries)
+the SQL repo for this data set can be found at: https://github.com/blombard24/naperville_finances_SQL_queries
